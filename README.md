@@ -1,2 +1,2 @@
 # Ghost-Town
-Advanced 3D Unity Android game.
+Very advanced 3D Unity Android game.
